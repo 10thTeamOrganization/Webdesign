@@ -16,7 +16,7 @@
    <h2 id="home_header">About Us</h2>
 <div id="content_container">
 <p>
-Welcome to  our LCT Bus ticket booking system.
+Welcome to  our Bus ticket booking system.
 
 This transportation terminal uses state-of-the-art technology to provide the upmost 
 comfort and convenience for all the passenger. Hope you enjoy our trip
