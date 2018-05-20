@@ -16,10 +16,10 @@
    <h2 id="home_header">About Us</h2>
 <div id="content_container">
 <p>
-Welcome to  our LCT Bus ticket system.
+Welcome to  our LCT Bus ticket booking system.
 
 This transportation terminal uses state-of-the-art technology to provide the upmost 
-comfort and convenience for all the passenger.
+comfort and convenience for all the passenger. Hope you enjoy our trip
 
 Since Our bus station terminal are located on Bandar Indera Mahkota (Jalan Pintasan Kuantan), 
 25200 Kuantan Malaysia. So only UMP students will receive a 10% discount if they book their bus
