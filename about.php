@@ -35,7 +35,12 @@ Do remember, our bus terminal is always your best choice to choose ! </p>
     </div>
 	
 <footer>
-    Copyright © 2016 LCT Bus Terminal 
+    Copyright © 2018 LCT Bus Terminal 
+	/*
+	
+	Edit By Sean
+	
+	*/
 </footer>
 
 </div>
