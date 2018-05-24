@@ -16,7 +16,7 @@
 
 
 <section>
-	<h1>WELCOME TO LCT Bus Terminal System</h1>
+	<h1>WELCOME TO SCM CLASS</h1>
 <nav>
 <a href="index.php">Home</a> |
 <a href="about.php">About us</a> |
